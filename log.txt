@@ -1,0 +1,32 @@
+Dự án WebSite cá nhân
+    domain: tqp.io.vn
+    Nội dung chính: Tổng hợp, Chia sẻ và hướng dẫn
+    Công cụ: VS Code, Github, Node.js
+    Nền tảng: Astro.
+
+Bắt đầu
+    Khởi tạo dự án mới trên VS code bằng npm
+            npm create astro@latest
+        Cài các thành phần phụ thuộc
+            npm install
+        Các lệnh chạy bản dev
+            npm run dev
+    Triển khai lên Github
+        1. Tạo Git repository
+                git init
+                git add .
+                git commit -m "first commit"
+        2. Tạo repo trên GitHub và copy URL của repo
+                VD: https://github.com/phitrandk-dot/tqp.io.vn.git
+        3. Kết nối và đẩy code lên GitHub
+                git remote add origin https://github.com/phitrandk-dot/tqp.io.vn.git
+                git branch -M main
+                git push -u origin main
+            nếu lỗi tài khoản đăng nhập git (dùng nhiều tài khoản git trên 1 máy)
+                1. Vào Control Panel → Credential Manager → Windows Credentials.
+                2. Xóa mục có github.com.
+                3. Lần sau push, Git sẽ hỏi lại user + token.
+
+
+
+
