@@ -24,6 +24,9 @@ const whenExternalScripts = (items: (() => AstroIntegration) | (() => AstroInteg
 export default defineConfig({
   output: 'static',
 
+  site: 'https://phitrandk-dot.github.io',
+  base: '/tqp.io.vn',
+
   integrations: [
     tailwind({
       applyBaseStyles: false,
