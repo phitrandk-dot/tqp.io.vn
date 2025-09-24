@@ -36,9 +36,9 @@ Kế hoạch ban đầu là dựng lều qua đêm, nhưng vùng này toàn kên
 
 Nhưng đến nơi thì… bốn bề vắng lặng, không một ánh đèn, không bảng hiệu, chỉ có vài chú chó ra sủa inh ỏi. Ủa, homestay đâu? Mình đành hỏi thăm một cặp vợ chồng đang xới đất trong đêm:
 
-  *“Dạ, anh chị cho em hỏi gần đây có homestay Bà Ngoại không ạ?”*
+_“Dạ, anh chị cho em hỏi gần đây có homestay Bà Ngoại không ạ?”_
 
-  *“Ở đây đâu có homestay nào đâu em.”*
+_“Ở đây đâu có homestay nào đâu em.”_
 
 Ủa, vậy là mình book nhầm homestay ảo à? Sau một hồi trao đổi, may mắn họ nhớ ra: “À, nhà kia thỉnh thoảng có khách nước ngoài tới ở.” Thì ra mình đến đúng chỗ, chỉ là… sai thời điểm. Chủ homestay đang ở TP, phải 2 tiếng sau mới về.
 

@@ -2,7 +2,6 @@ import { getPermalink, getBlogPermalink } from './utils/permalinks';
 
 export const headerData = {
   links: [
-    
     {
       text: 'Cùng học',
       links: [
@@ -46,7 +45,7 @@ export const headerData = {
         },
       ],
     },
-        {
+    {
       text: 'Cùng nghe',
       links: [
         {
@@ -138,9 +137,7 @@ export const footerData = {
       ],
     },*/
   ],
-  secondaryLinks: [
-    { text: 'Học tập - thực hành - chia sẻ'},
-  ],
+  secondaryLinks: [{ text: 'Học tập - thực hành - chia sẻ' }],
   socialLinks: [
     { ariaLabel: 'Instagram', icon: 'tabler:brand-instagram', href: 'https://www.instagram.com/obj.et.phi' },
     { ariaLabel: 'Facebook', icon: 'tabler:brand-facebook', href: 'https://www.facebook.com/Tranphi2023' },

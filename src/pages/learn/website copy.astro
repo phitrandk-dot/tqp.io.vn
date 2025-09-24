@@ -6,8 +6,9 @@ const metadata = {
   title: 'Cách tạo Website',
 };
 ---
+
 <Layout metadata={metadata}>
-<Hero2
+  <Hero2
     tagline=""
     actions={[
       { variant: 'primary', target: '_blank', text: 'Gửi phản hồi', href: 'https://forms.gle/1N2rzx8jHVr7NPxy5' },
@@ -18,14 +19,13 @@ const metadata = {
     }}
   >
     <Fragment slot="title">
-      Trang đang được thiết kế <br />  <span class="text-accent dark:text-white"></span> <br
-      />
+      Trang đang được thiết kế <br />
+      <span class="text-accent dark:text-white"></span>
+      <br />
     </Fragment>
 
     <Fragment slot="subtitle">
-      <span class="hidden sm:inline">
-        <span class="font-semibold"></span></span
-      >
+      <span class="hidden sm:inline"> <span class="font-semibold"></span></span>
       Chủ trang là một người lười nên tiếng độ cập nhật luôn bị chậm trễ, hãy gửi phản hồi để hối thúc chủ trang hoàn thiện
     </Fragment>
   </Hero2>

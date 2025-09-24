@@ -89,6 +89,7 @@ metadata:
 - 10h chui vào túi ngủ, viết nhật ký, mong sáng mai trời quang để đón bình minh.
 
 ## Kinh nghiệm chuẩn bị
+
 #### Đồ nên mang (gọn nhẹ)
 
 - 🎒 Balo 7–8kg (tối đa 10kg cho người mới).

@@ -18,11 +18,11 @@ Dưới đây là tổng hợp những điểm đến, cung đường, và kinh 
 
 ## Giới thiệu nhanh
 
-- Diện tích ~71.350 ha, nằm trên địa bàn các tỉnh Đồng Nai, Lâm Đồng, Bình Phước. 
+- Diện tích ~71.350 ha, nằm trên địa bàn các tỉnh Đồng Nai, Lâm Đồng, Bình Phước.
 
 - Được UNESCO công nhận là khu dự trữ sinh quyển thế giới.
 
-- Thời điểm lý tưởng cho các hoạt động ngoài trời là mùa khô, từ tháng 12 đến tháng 4. Mùa mưa đẹp về cảnh sắc nhưng có thể gặp đường xấu, mưa bất chợt. 
+- Thời điểm lý tưởng cho các hoạt động ngoài trời là mùa khô, từ tháng 12 đến tháng 4. Mùa mưa đẹp về cảnh sắc nhưng có thể gặp đường xấu, mưa bất chợt.
 
 ## Các điểm đến nổi bật & trải nghiệm
 
@@ -68,7 +68,7 @@ Mô tả: Cung đường từ trung tâm quản lý/cổng rừng tới các đi
 
 - **Cắm trại qua đêm:** được dựng lều, đốt lửa, chuẩn bị bữa tối, đêm nghe âm thanh rừng — côn trùng, chim hoang dã — rất riêng.
 
-- **Ngắm động vật hoang dã:** đặc biệt là ban đêm với tour do Ban quản lý tổ chức, hoặc tại Bầu Sấu khi có cá sấu, cũng có thể gặp các loài chim, thú rừng. 
+- **Ngắm động vật hoang dã:** đặc biệt là ban đêm với tour do Ban quản lý tổ chức, hoặc tại Bầu Sấu khi có cá sấu, cũng có thể gặp các loài chim, thú rừng.
 
 - **Hoàng hôn & bình minh trong rừng:** ánh sáng qua tán cây, không khí mát, sương rừng — nếu đi sáng sớm hoặc chiều muộn thì cảnh quan đẹp hơn, người ít hơn.
 
@@ -80,7 +80,7 @@ Mô tả: Cung đường từ trung tâm quản lý/cổng rừng tới các đi
 
 - Với tour tự túc: cần mang theo đồ ăn, nhiên liệu (than hoặc than củi nếu muốn nướng) vì không thể mua những thứ đó trong khu tham quan.
 
-- Thời gian: 
+- Thời gian:
   - Nếu ở qua đêm hãy thuê xe đạp sau 12h trưa bạn sẽ được thuê xe 1 ngày với giá thuê xe 8h
   - nếu đi về trong ngày, xuất phát sớm để có thời gian đạp xe, check-in mà không vội.
 
