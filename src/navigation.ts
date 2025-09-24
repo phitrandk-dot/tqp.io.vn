@@ -1,92 +1,70 @@
-import { getPermalink, getBlogPermalink, getAsset } from './utils/permalinks';
+import { getPermalink, getBlogPermalink } from './utils/permalinks';
 
 export const headerData = {
   links: [
+    
     {
-      text: 'Homes',
+      text: 'Cùng học',
       links: [
         {
-          text: 'SaaS',
-          href: getPermalink('/homes/saas'),
+          text: 'Websit',
+          href: getPermalink('/learn/website'),
         },
         {
-          text: 'Startup',
-          href: getPermalink('/homes/startup'),
-        },
-        {
-          text: 'Mobile App',
-          href: getPermalink('/homes/mobile-app'),
-        },
-        {
-          text: 'Personal',
-          href: getPermalink('/homes/personal'),
+          text: 'Tin học Văn Phòng',
+          href: getPermalink('/learn/startup'),
         },
       ],
     },
     {
-      text: 'Pages',
+      text: 'Cùng đi',
       links: [
         {
-          text: 'Features (Anchor Link)',
-          href: getPermalink('/#features'),
+          text: '63 Tỉnh Thành',
+          href: getPermalink('/category/63-tinh-thanh'),
         },
         {
-          text: 'Services',
-          href: getPermalink('/services'),
+          text: 'Leo núi',
+          href: getPermalink('/category/leo-nui'),
         },
         {
-          text: 'Pricing',
-          href: getPermalink('/pricing'),
-        },
-        {
-          text: 'About us',
-          href: getPermalink('/about'),
-        },
-        {
-          text: 'Contact',
-          href: getPermalink('/contact'),
-        },
-        {
-          text: 'Terms',
-          href: getPermalink('/terms'),
-        },
-        {
-          text: 'Privacy policy',
-          href: getPermalink('/privacy'),
+          text: 'Khám phá',
+          href: getPermalink('/category/kham-pha'),
         },
       ],
     },
     {
-      text: 'Landing',
+      text: 'Cùng chơi',
       links: [
         {
-          text: 'Lead Generation',
+          text: 'ONI',
           href: getPermalink('/landing/lead-generation'),
         },
         {
-          text: 'Long-form Sales',
+          text: 'Prision Archi',
+          href: getPermalink('/landing/sales'),
+        },
+      ],
+    },
+        {
+      text: 'Cùng nghe',
+      links: [
+        {
+          text: 'Truyện',
+          href: getPermalink('/landing/lead-generation'),
+        },
+        {
+          text: 'Podcast',
           href: getPermalink('/landing/sales'),
         },
         {
-          text: 'Click-Through',
-          href: getPermalink('/landing/click-through'),
-        },
-        {
-          text: 'Product Details (or Services)',
-          href: getPermalink('/landing/product'),
-        },
-        {
-          text: 'Coming Soon or Pre-Launch',
-          href: getPermalink('/landing/pre-launch'),
-        },
-        {
-          text: 'Subscription',
-          href: getPermalink('/landing/subscription'),
+          text: 'Nhạc',
+          href: getPermalink('/landing/sales'),
         },
       ],
     },
     {
-      text: 'Blog',
+      text: 'Cùng viết',
       links: [
         {
           text: 'Blog List',
@@ -110,17 +88,12 @@ export const headerData = {
         },
       ],
     },
-    {
-      text: 'Widgets',
-      href: '#',
-    },
   ],
-  actions: [{ text: 'Download', href: 'https://github.com/arthelokyo/astrowind', target: '_blank' }],
 };
 
 export const footerData = {
   links: [
-    {
+    /*{
       title: 'Product',
       links: [
         { text: 'Features', href: '#' },
@@ -163,20 +136,16 @@ export const footerData = {
         { text: 'Social Impact', href: '#' },
         { text: 'Shop', href: '#' },
       ],
-    },
+    },*/
   ],
   secondaryLinks: [
-    { text: 'Terms', href: getPermalink('/terms') },
-    { text: 'Privacy Policy', href: getPermalink('/privacy') },
+    { text: 'Học tập - thực hành - chia sẻ'},
   ],
   socialLinks: [
-    { ariaLabel: 'X', icon: 'tabler:brand-x', href: '#' },
-    { ariaLabel: 'Instagram', icon: 'tabler:brand-instagram', href: '#' },
-    { ariaLabel: 'Facebook', icon: 'tabler:brand-facebook', href: '#' },
-    { ariaLabel: 'RSS', icon: 'tabler:rss', href: getAsset('/rss.xml') },
-    { ariaLabel: 'Github', icon: 'tabler:brand-github', href: 'https://github.com/arthelokyo/astrowind' },
+    { ariaLabel: 'Instagram', icon: 'tabler:brand-instagram', href: 'https://www.instagram.com/obj.et.phi' },
+    { ariaLabel: 'Facebook', icon: 'tabler:brand-facebook', href: 'https://www.facebook.com/Tranphi2023' },
   ],
   footNote: `
-    Made by <a class="text-blue-600 underline dark:text-muted" href="https://github.com/arthelokyo"> Arthelokyo</a> · All rights reserved.
+    Tạo bởi <a class="text-blue-600 underline dark:text-muted" href="https://tqp.io.vn"> TranPhi</a> · Bảo lưu mọi quyền.
   `,
 };
